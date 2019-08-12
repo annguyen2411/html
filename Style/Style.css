@@ -27,7 +27,7 @@
 	padding-right: 30px;
 	padding-top: 20px;
 	}
-.main1 {
+.info {
 	width: 100%;
 	height: 555px;
 	background-color: #f8f8f8;
@@ -36,6 +36,23 @@
 	border-width:1px;
 	border-radius:9px;
 	}
+.proinfo {
+	font-size: 25px;
+	border-bottom-color: #A8A7A7;
+	border-bottom-style: solid;
+	border-bottom-width: 1px;
+	padding-bottom: 1.5%;
+	}
+.detallproinfo {
+	padding-top: 1%;
+	}
+.workexp {
+	font-size: 25px;
+	border-bottom-color: #A8A7A7;
+	border-bottom-style: solid;
+	border-bottom-width: 1px;
+	padding-bottom: 1.5%;
+}
 .main2 {
 	font-size:14px;
 	text-align:justify;
