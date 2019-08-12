@@ -36,6 +36,9 @@
 	border-width:1px;
 	border-radius:9px;
 	}
+#avatar {
+	
+
 .proinfo {
 	font-size: 25px;
 	border-bottom-color: #A8A7A7;
@@ -68,13 +71,32 @@
 	padding-top: 2%;
 }
 .nameuni {
-	font-size: 20px;
+	font-size: 18px;
 	color: #72AB00;
 }
 .nameshortcourse {
-	font-size: 20px;
+	font-size: 18px;
 	color: #72AB00;
 	padding-top: 3%
+}
+.exp {
+	font-size: 25px;
+	border-bottom-color: #A8A7A7;
+	border-bottom-style: solid;
+	border-bottom-width: 1px;
+	padding-bottom: 2.8%;
+}
+.skill {
+	font-size: 25px;
+	border-bottom-color: #A8A7A7;
+	border-bottom-style: solid;
+	border-bottom-width: 1px;
+	padding-bottom: 2.8%;
+}
+.headerR {
+	font-size: 18px;
+	color: #72AB00;
+	padding-top: 2%
 }
 .main2 {
 	font-size:14px;
