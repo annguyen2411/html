@@ -53,6 +53,29 @@
 	border-bottom-width: 1px;
 	padding-bottom: 1.5%;
 }
+.time1 {
+	padding-bottom: 5px;
+	padding-top: 5px;
+}
+.education {
+	font-size: 25px;
+	border-bottom-color: #A8A7A7;
+	border-bottom-style: solid;
+	border-bottom-width: 1px;
+	padding-bottom: 1.5%;
+}
+.university {
+	padding-top: 2%;
+}
+.nameuni {
+	font-size: 20px;
+	color: #72AB00;
+}
+.nameshortcourse {
+	font-size: 20px;
+	color: #72AB00;
+	padding-top: 3%
+}
 .main2 {
 	font-size:14px;
 	text-align:justify;
